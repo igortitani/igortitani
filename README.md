@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> #  ***Olá! Me Chamo  IGOR RODRIGUES***<br>* Atualmente estou trabalhando em Consertos e manutenção de Smartphone e Computadores. <br>* Cursando na Digital Colleger, Desenvolvedor Full Stack ; <br>  -  Necessidade de um Desenvolvedor Full Stack <br>> ***HTML5:*** <br> - ***CSS3:*** <br>> ***Javascript:*** <br> - ***React:***<br>> ***Banco de dados:***<br>
+<br> Olá! Me Chamo  IGOR RODRIGUES <br>  Atualmente estou trabalhando em Consertos e manutenção de Smartphone e Computadores. <br> Cursando na Digital Colleger, Desenvolvedor Full Stack ; <br>   Necessidade de um Desenvolvedor Full Stack <br> HTML5: <br>  CSS3: <br> Javascript: <br> React: <br> Banco de dados: <br>
 
 
 ## 🌐 Socials:
